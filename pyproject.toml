@@ -3,7 +3,7 @@
 # https://packaging.python.org/en/latest/guides/writing-pyproject-toml
 # https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html
 [build-system]
-requires = ["setuptools >= 61.0", "setuptools_scm"]
+requires = ["setuptools >= 61.0"]
 build-backend = "setuptools.build_meta"
 ###############################################################################
 #                                 Main library                                #
